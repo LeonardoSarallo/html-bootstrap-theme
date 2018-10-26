@@ -14,6 +14,12 @@
 .bg_black {
   background: #2c3e50;
 }
+.marginright {
+  margin-left: 320px
+}
+.marginleft {
+  margin-right: 120px;
+}
 .wrapperheader a {
   color: #fff;
   font-size: 20px;
@@ -73,6 +79,7 @@
   font-size: 40px;
   color: #2c3e50;
   margin-top: 25px;
+  margin-bottom: 50px;
 
 }
 .firstimageline {
@@ -84,8 +91,7 @@
   font-weight: 600;
   margin-top: 80px;
 
-
 }
-.wrapperportfolio img {
-  width: 750%
+.secondimgline {
+  margin-top: 30px;
 }
