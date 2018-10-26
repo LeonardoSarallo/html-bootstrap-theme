@@ -8,7 +8,7 @@
 
 }
 .container {
-  width: 60%;
+  width: 50%;
   height: 100%
 }
 .bg_black {
@@ -18,7 +18,7 @@
   color: #fff;
   font-size: 20px;
   line-height: 100px;
-  margin:  20px;
+  padding: 20px;
   text-decoration: none;
 
 
@@ -86,7 +86,6 @@
 
 
 }
-.col-xs-4 {
-  background-color: red;
-  height: 300px
+.wrapperportfolio img {
+  width: 750%
 }
