@@ -6,8 +6,6 @@
   width: 100%;
   height: 100px;
 
-
-
 }
 .container {
   width: 50%;
@@ -169,7 +167,6 @@ input {
 
 }
 
-
 .send a {
   background: #18bc9c;
   color: #fff;
@@ -190,20 +187,15 @@ input {
   margin-top: 80px;
 }
 
-
 li {
   display: inline;
 
 }
 .inlineitem i {
-
 font-size: 30px;
 margin: 0 10px;
-
 color: #fff;border-radius: 2px;
 border-color: #f8f9fa;
-
-
 
 }
  ul a {
@@ -215,8 +207,6 @@ border-color: #f8f9fa;
   font-size: 20px;
   color: #fff;
   text-decoration: none;
-
-
 }
 .freelancer a:hover{
   color: #18bc9c
