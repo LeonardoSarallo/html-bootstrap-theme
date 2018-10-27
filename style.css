@@ -6,6 +6,8 @@
   width: 100%;
   height: 100px;
 
+
+
 }
 .container {
   width: 50%;
@@ -36,7 +38,7 @@
 
 .wrapperjumbo {
   width: 100%;
-  height: 700px;
+  height: 800px;
   background: #18bc9c
 
 }
@@ -56,7 +58,7 @@
 .wrapperjumbo i {
   font-size: 40px;
   color: #fff;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 .wrapperjumbo p {
   margin-top: 25px;
@@ -78,7 +80,7 @@
 .wrapperportfolio i {
   font-size: 40px;
   color: #2c3e50;
-  margin-top: 25px;
+  margin-top: 50px;
   margin-bottom: 50px;
 
 }
@@ -95,9 +97,10 @@
 .secondimgline {
   margin-top: 30px;
 }
+
 .wrapperabout {
   width: 100%;
-  height: 500px;
+  height: 650px;
   background: #18bc9c
 }
 .wrapperabout h2 {
@@ -107,4 +110,80 @@
 .wrapperabout i {
   color: #fff;
   font-size: 40px;
+  margin-top: 50px;
+}
+.wrapperabout p {
+  color: #fff;
+  font-size: 18px;
+  margin-top: 50px;
+
+}
+.wrapperabout a {
+  color: #fff;
+  margin-top: 50px;
+
+  font-size: 40px;
+  padding: 20px;
+  text-decoration: none;
+  border-radius: 5px solid;
+  border-color: #fff
+
+}
+.download a:hover {
+  color: #fff
+}
+.wrappercontactme {
+  background: white;
+  width: 100%;
+  height: 1200px;
+}
+.wrappercontactme h2 {
+  font-size: 50px;
+  font-weight: 800;
+  margin-top: 80px;
+
+}
+.wrappercontactme i {
+  font-size: 40px;
+  margin-top: 50px;
+
+}
+.form {
+  width: 70%;
+  height: 600px;
+}
+.nome label {
+  text-decoration: none;
+  font-size: 30px;
+  margin-top: 60px;
+
+}
+.date {
+  width: 100%;
+  border-bottom: 2px solid #e9ecef;
+}
+input {
+  border: none;
+  display: block;
+
+}
+.form hr {
+  display: block;
+  border: 20px;
+}
+
+.send a {
+  background: #18bc9c;
+  color: #fff;
+  text-decoration: none;
+  padding: 30px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.footer {
+  width: 100%;
+  height: 300px;
+  background: white;
+  color: #fff;
+  background: #2c3e50;
 }
